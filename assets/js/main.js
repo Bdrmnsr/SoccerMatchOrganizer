@@ -1,0 +1,5 @@
+
+
+$('.datepicker').datepicker({
+	inline: true
+  });
